@@ -6,7 +6,7 @@ Instructions:
 
 3) At a command prompt, do a C:\miniconda\scripts\easy_install SimpleITK-0.9.0b1.post16-py2.7-win-amd64.egg
 
-4)Run the slicerConda executable.
+4)Run the SlicerConda Installer.
 
 
 
