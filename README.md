@@ -4,9 +4,11 @@ Instructions:
 
 2) Install http://repo.continuum.io/miniconda/Miniconda-3.9.1-Windows-x86_64.exe to C:\miniconda
 
-3) At a command prompt, do a C:\miniconda\scripts\easy_install SimpleITK-0.9.0b1.post16-py2.7-win-amd64.egg
+3)Run the SlicerConda Installer.
 
-4)Run the SlicerConda Installer.
+4) At a command prompt, do a C:\miniconda\scripts\easy_install SimpleITK-0.9.0b1.post16-py2.7-win-amd64.egg
+
+5) Install numpy by doing a "conda install numpy" at the command prompt
 
 
 
